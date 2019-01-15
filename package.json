@@ -13,8 +13,6 @@
   ],
   "author": "Francisco Manzano Magaña <keoh77@gmail.com>",
   "license": "ISC",
-  "dependencies": {
-  },
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "browserify": "^16.2.3",

@@ -1,5 +1,5 @@
-# basic-project.vue
-Basic project for Vue.js
+# basic-project-html
+Basic project for HTML design with autoreload
 
 
 ## How to use this template project
