@@ -2,7 +2,6 @@ let gulp = require("gulp");
 let browserSync = require("browser-sync");
 let sass = require("gulp-sass");
 let prefix = require("gulp-autoprefixer");
-let gutil = require("gulp-util");
 let browserify = require("gulp-browserify");
 let concat = require("gulp-concat");
 let hb = require("gulp-hb");
